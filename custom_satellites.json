@@ -1,0 +1,174 @@
+{
+  "satellites": [
+    {
+      "name": "Mon satellite2",
+      "semi_major_axis": 10578.14,
+      "eccentricity": 0.3592313960677397,
+      "inclination": 45.0,
+      "raan": 0.0,
+      "arg_perigee": 0.0,
+      "true_anomaly": 0.0,
+      "epoch": 0.0
+    },
+    {
+      "name": "ISS (ZARYA)",
+      "semi_major_axis": 6798.209125039714,
+      "eccentricity": 0.000671,
+      "inclination": 51.6325,
+      "raan": 73.0089,
+      "arg_perigee": 259.3258,
+      "true_anomaly": 100.6975,
+      "epoch": 26286.821783
+    },
+    {
+      "name": "POISK",
+      "semi_major_axis": 6798.209125050801,
+      "eccentricity": 0.000671,
+      "inclination": 51.6325,
+      "raan": 73.0089,
+      "arg_perigee": 259.3258,
+      "true_anomaly": 100.6975,
+      "epoch": 26286.821783
+    },
+    {
+      "name": "ISS (NAUKA)",
+      "semi_major_axis": 6798.209125050678,
+      "eccentricity": 0.000671,
+      "inclination": 51.6325,
+      "raan": 73.0089,
+      "arg_perigee": 259.3258,
+      "true_anomaly": 100.6975,
+      "epoch": 26286.821783
+    },
+    {
+      "name": "FREGAT DEB",
+      "semi_major_axis": 7862.759084619183,
+      "eccentricity": 0.094219,
+      "inclination": 51.6488,
+      "raan": 7.7998,
+      "arg_perigee": 186.1418,
+      "true_anomaly": 172.7167,
+      "epoch": 26285.637812
+    },
+    {
+      "name": "CSS (WENTIAN)",
+      "semi_major_axis": 6763.83377676684,
+      "eccentricity": 4.14e-05,
+      "inclination": 41.4695,
+      "raan": 322.9239,
+      "arg_perigee": 91.3605,
+      "true_anomaly": 268.7281,
+      "epoch": 26286.58038
+    },
+    {
+      "name": "CSS (MENGTIAN)",
+      "semi_major_axis": 6763.833776709609,
+      "eccentricity": 4.14e-05,
+      "inclination": 41.4695,
+      "raan": 322.9239,
+      "arg_perigee": 91.3605,
+      "true_anomaly": 268.7281,
+      "epoch": 26286.58038
+    },
+    {
+      "name": "HRC MONOBLOCK CAMERA",
+      "semi_major_axis": 6565.219452819004,
+      "eccentricity": 0.0008352,
+      "inclination": 51.6034,
+      "raan": 17.9966,
+      "arg_perigee": 328.5238,
+      "true_anomaly": 31.5284,
+      "epoch": 26286.646227
+    },
+    {
+      "name": "SZ-21 MODULE",
+      "semi_major_axis": 6681.7253870232,
+      "eccentricity": 0.0010791,
+      "inclination": 41.469,
+      "raan": 286.8938,
+      "arg_perigee": 158.2745,
+      "true_anomaly": 201.8564,
+      "epoch": 26286.064814
+    },
+    {
+      "name": "KNACKSAT-2",
+      "semi_major_axis": 6728.569187990503,
+      "eccentricity": 0.0009058,
+      "inclination": 51.6263,
+      "raan": 52.2879,
+      "arg_perigee": 296.879,
+      "true_anomaly": 63.1282,
+      "epoch": 26286.872312
+    },
+    {
+      "name": "GXIBA-1",
+      "semi_major_axis": 6712.347833285396,
+      "eccentricity": 0.0010545,
+      "inclination": 51.621,
+      "raan": 48.309,
+      "arg_perigee": 301.7949,
+      "true_anomaly": 58.2025,
+      "epoch": 26286.959196
+    },
+    {
+      "name": "UITMSAT-2",
+      "semi_major_axis": 6641.7494114682595,
+      "eccentricity": 0.0011791,
+      "inclination": 51.6139,
+      "raan": 41.1435,
+      "arg_perigee": 320.9324,
+      "true_anomaly": 39.0835,
+      "epoch": 26286.581408
+    },
+    {
+      "name": "LEOPARD",
+      "semi_major_axis": 6689.596165888212,
+      "eccentricity": 0.0011405,
+      "inclination": 51.6208,
+      "raan": 49.8055,
+      "arg_perigee": 309.3308,
+      "true_anomaly": 50.6684,
+      "epoch": 26286.617618
+    },
+    {
+      "name": "HMU-SAT2",
+      "semi_major_axis": 6686.366205456168,
+      "eccentricity": 0.0009171,
+      "inclination": 51.6234,
+      "raan": 45.8802,
+      "arg_perigee": 302.4185,
+      "true_anomaly": 57.5932,
+      "epoch": 26286.598391
+    },
+    {
+      "name": "PROGRESS-MS 34",
+      "semi_major_axis": 6798.209125047942,
+      "eccentricity": 0.000671,
+      "inclination": 51.6325,
+      "raan": 73.0089,
+      "arg_perigee": 259.3258,
+      "true_anomaly": 100.6975,
+      "epoch": 26286.821783
+    },
+    {
+      "name": "TIANZHOU-10",
+      "semi_major_axis": 6763.833776701097,
+      "eccentricity": 4.14e-05,
+      "inclination": 41.4695,
+      "raan": 322.9239,
+      "arg_perigee": 91.3605,
+      "true_anomaly": 268.7281,
+      "epoch": 26286.58038
+    },
+    {
+      "name": "SHENZHOU-23 (SZ-23)",
+      "semi_major_axis": 6763.833776710115,
+      "eccentricity": 4.14e-05,
+      "inclination": 41.4695,
+      "raan": 322.9239,
+      "arg_perigee": 91.3605,
+      "true_anomaly": 268.7281,
+      "epoch": 26286.58038
+    }
+  ]
+}

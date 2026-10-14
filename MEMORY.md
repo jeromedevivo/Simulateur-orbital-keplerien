@@ -1,0 +1,3 @@
+- [TLE Parser Implementation](satellite_simulator/data/tle_parser.py) — Implementation of TLE parsing module for NORAD Two-Line Element data
+- [Satellite Database Implementation](satellite_simulator/data/satellite_database.py) — Satellite database management with CRUD operations and TLE file loading
+- [Core Satellite Class](satellite_simulator/core/satellite.py) — Data structure definition for satellite objects with orbital elements
